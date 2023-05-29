@@ -9,7 +9,7 @@ body{
     /* background-color: aquamarine; */
     background-image: url("./pexels-photo-2414442.webp");
     background-size:cover;
-     /* background-position: center; */
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
